@@ -19,8 +19,22 @@ A remote performance by [Donald Shorter Jr](https://www.instagram.com/donxmen/),
 
 ## Press
 
-[https://tisch.nyu.edu/itp/events/summer-2017/avatar](https://tisch.nyu.edu/itp/events/summer-2017/avatar)
+[![avatar](https://github.com/montoyamoraga/avatar/raw/master/documentation/avatar.jpg)](https://tisch.nyu.edu/itp/events/summer-2017/avatar)
 
 ## Documentation
 
 [https://www.youtube.com/watch?v=8VrL_cz69gc](https://www.youtube.com/watch?v=8VrL_cz69gc)
+
+## Credits
+
+* Donald Shorter Jr.: concept, choreography, live streaming, dancer, 3D model
+* Yuli Cai: concept, programming, live visuals manipulation
+* Aarón Montoya-Moraga: concept, programming, 3D scanning, sound design, live sound manipulation
+
+## Thanks
+
+* NYU Tisch Institute of Performing Arts for the grant that made this project possible
+* NYU Tisch Dance for space for rehearsals and performance
+* NYU Interactive Telecommunications program for projectors and materials
+* Matt Romein for assistance in Unreal Engine 4 and Open Sound Control
+* Or Fleisher for assistance in 3D models
