@@ -33,8 +33,8 @@ A remote performance by [Donald Shorter Jr](https://www.instagram.com/donxmen/),
 
 ## Thanks
 
-* NYU Tisch Institute of Performing Arts for the grant that made this project possible
-* NYU Tisch Dance for space for rehearsals and performance
-* NYU Interactive Telecommunications program for projectors and materials
-* Matt Romein for assistance in Unreal Engine 4 and Open Sound Control
-* Or Fleisher for assistance in 3D models
+* [NYU Tisch Institute of Performing Arts](http://tisch.nyu.edu/performing-arts) for the grant that made this project possible
+* [NYU Tisch Dance](http://tisch.nyu.edu/dance) for space for rehearsals and performance
+* [NYU Interactive Telecommunications Program](https://tisch.nyu.edu/itp) for projectors and materials
+* [Matt Romein](http://matt-romein.com/) for assistance in Unreal Engine 4 and Open Sound Control
+* [Or Fleisher](http://orfleisher.com/) for assistance in 3D models
