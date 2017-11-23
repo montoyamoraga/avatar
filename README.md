@@ -27,9 +27,9 @@ A remote performance by [Donald Shorter Jr](https://www.instagram.com/donxmen/),
 
 ## Credits
 
-* Donald Shorter Jr.: concept, choreography, live streaming, dancer, 3D model
+* Donald Shorter Jr: Concept, choreography, live streaming, dancer, 3D model
 * Yuli Cai: concept, programming, live visuals manipulation
-* Aarón Montoya-Moraga: concept, programming, 3D scanning, sound design, live sound manipulation
+* Aarón Montoya-Moraga: Concept, programming, 3D scanning, sound design, live sound manipulation
 
 ## Thanks
 
