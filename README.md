@@ -19,11 +19,11 @@ A remote performance by [Donald Shorter Jr](https://www.instagram.com/donxmen/),
 
 ## Press
 
-[![avatar](https://github.com/montoyamoraga/avatar/raw/master/documentation/avatar.jpg)](https://tisch.nyu.edu/itp/events/summer-2017/avatar)
+[![avatar](https://github.com/montoyamoraga/avatar/raw/master/documentation/avatar-press.jpg)](https://tisch.nyu.edu/itp/events/summer-2017/avatar)
 
 ## Documentation
 
-[https://www.youtube.com/watch?v=8VrL_cz69gc](https://www.youtube.com/watch?v=8VrL_cz69gc)
+[![avatar](https://github.com/montoyamoraga/avatar/raw/master/documentation/avatar.jpg)](https://www.youtube.com/watch?v=8VrL_cz69gc)
 
 ## Credits
 
